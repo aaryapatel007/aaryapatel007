@@ -1,11 +1,17 @@
 ### Hi there 👋
 
 <!--
-**aaryapatel007/aaryapatel007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**aaryapatel007/aaryapatel007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
+I'm Aarya, a software engineer at Vitrana! I'm currently working on applying AI in various healthcare domains. I'm open for research collaborations in the field of AI and healthcare.
+I live in Delhi NCR and love building awesome AI tools which can benefit the humankind.
+You can reach me on [Linkedin](https://www.linkedin.com/in/aaryapatel007/). 
 
-- 🔭 I’m currently working on ...
+Thanks for stopping by!
+
+
+<!--
+- 🔭 I’m currently working on ggg
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
