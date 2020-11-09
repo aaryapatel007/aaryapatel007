@@ -8,6 +8,7 @@ I live in Delhi NCR and love building awesome AI tools which can benefit the hum
 You can reach me on [Linkedin](https://www.linkedin.com/in/aaryapatel007/). 
 
 [![Aarya's github stats](https://github-readme-stats.vercel.app/api?username=aaryapatel007&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaryapatel007&theme=merko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 Thanks for stopping by!
