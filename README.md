@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋🏻
 
 <!--
 **aaryapatel007/aaryapatel007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
