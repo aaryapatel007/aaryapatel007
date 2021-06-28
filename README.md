@@ -13,7 +13,7 @@ You can reach me on [Linkedin](https://www.linkedin.com/in/aaryapatel007/).
 
 
 
-- 🔭 I’m like to work on Computer Vision / Robotics / Reinforcement Learning / AI in Heathcare applications.
+- 🔭 I like to work on Computer Vision / Robotics / Reinforcement Learning / AI in Heathcare applications.
 - 👯 I’m looking to collaborate on AI for social good applications.
 - 💬 Ask me about anything.
 - 📫 How to reach me: Linkedin or email me.
