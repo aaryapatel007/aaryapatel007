@@ -13,7 +13,7 @@ You can reach me on [Linkedin](https://www.linkedin.com/in/aaryapatel007/).
 - 💬 Ask me about anything.
 - 📫 How to reach me: Linkedin or email me.
 - 😄 Pronouns: he / him
-- ⚡ Fun fact: I love to play chess and I'm a great fan of cricket.
+- ⚡ Fun fact: I love to play chess and badminton, and I'm a great fan of cricket.
 
 Thanks for stopping by!
 
