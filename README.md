@@ -6,7 +6,7 @@
 I'm Aarya, a *Data Scientist (Associate)* at Vitrana! I'm currently working on applying AI in the healthcare domain. 
 
 I live in Delhi NCR and love building awesome AI tools which can benefit the humankind.
-You can reach me on [Linkedin](https://www.linkedin.com/in/aaryapatel007/). 
+You can reach out on [Linkedin](https://www.linkedin.com/in/aaryapatel007/). 
 
 - 🔭 I like to work on Computer Vision / NLP / Robotics / AI in Healthcare applications.
 - 👯 I’m looking to collaborate on AI for social good applications.
