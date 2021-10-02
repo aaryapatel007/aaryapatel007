@@ -5,13 +5,12 @@
 
 I'm Aarya, a *Data Scientist (Associate)* at Vitrana! I'm currently working on applying AI in the healthcare domain. 
 
-I live in Delhi NCR and love building awesome AI tools which can benefit the humankind.
-You can reach out on [Linkedin](https://www.linkedin.com/in/aaryapatel007/). 
+I live in Delhi NCR and love building awesome AI tools which can benefit the humankind. 
 
 - 🔭 I like to work on Computer Vision / NLP / Robotics / AI in Healthcare applications.
 - 👯 I’m looking to collaborate on AI for social good applications.
 - 💬 Ask me about anything.
-- 📫 How to reach me: Linkedin or email me.
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/aaryapatel007/) or [email](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=aaryapate98@gmail.com) me.
 - 😄 Pronouns: he / him
 - ⚡ Fun fact: I love to play chess and badminton, and I'm a great fan of cricket.
 
