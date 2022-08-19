@@ -3,7 +3,7 @@
 <!--
 **aaryapatel007/aaryapatel007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-I'm Aarya, a *Data Scientist (Associate)* at Vitrana! I'm currently working on applying AI in the healthcare domain. 
+I'm Aarya, a *Data Scientist*! I'm currently working on applying AI in the healthcare domain. 
 
 I live in Delhi NCR and love building awesome AI tools which can benefit the humankind. 
 
