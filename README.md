@@ -12,7 +12,7 @@ I live in Delhi NCR and love building awesome AI tools which can benefit the hum
 - 💬 Ask me about anything.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/aaryapatel007/) or [email](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=aaryap@iiitd.ac.in) me.
 - 😄 Pronouns: he / him
-- ⚡ Fun fact: I love to play chess and badminton, and I'm a great fan of cricket.
+- ⚡ Fun fact: I love to ride my cruiser bike. 🏍️
 
 Thanks for stopping by!
 
